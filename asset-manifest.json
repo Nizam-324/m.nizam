@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/m.nizam/static/css/main.f183e19d.css",
+    "main.js": "/m.nizam/static/js/main.31c6652b.js",
+    "static/media/polynoteimg.png": "/m.nizam/static/media/polynoteimg.5660e7b85fd513c5180f.png",
+    "static/media/yboximg.png": "/m.nizam/static/media/yboximg.e89522bfa1e86232f777.png",
+    "static/media/nzm.png": "/m.nizam/static/media/nzm.3e061d31eb3aecf86cf2.png",
+    "static/media/cinematriximg.png": "/m.nizam/static/media/cinematriximg.515db5a094e68c1379a3.png",
+    "static/media/getjobimg.png": "/m.nizam/static/media/getjobimg.d6e675acb4bfb10ca0ae.png",
+    "static/media/NeueMachina-Regular.otf": "/m.nizam/static/media/NeueMachina-Regular.6c408aeebce449ab7d74.otf",
+    "static/media/bodyBg.svg": "/m.nizam/static/media/bodyBg.d1b76b5a040e0c77f688.svg",
+    "index.html": "/m.nizam/index.html",
+    "static/media/topGradient.svg": "/m.nizam/static/media/topGradient.c47d2061523bfdec9c20.svg",
+    "main.f183e19d.css.map": "/m.nizam/static/css/main.f183e19d.css.map",
+    "main.31c6652b.js.map": "/m.nizam/static/js/main.31c6652b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f183e19d.css",
+    "static/js/main.31c6652b.js"
+  ]
+}
